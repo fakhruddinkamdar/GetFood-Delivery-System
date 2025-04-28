@@ -1,6 +1,6 @@
-# E-commerce Website
+# Food delivery Website
 
-A full-stack e-commerce website built with modern web technologies.
+A full-stack Food delivery website built with modern web technologies.
 
 ## Project Structure
 

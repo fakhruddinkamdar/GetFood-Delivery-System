@@ -106,3 +106,4 @@ API documentation is available in the Postman collection file: `backend/Test.pos
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+
